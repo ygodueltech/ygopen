@@ -12,10 +12,10 @@ package YGOpen.Proto.Duel;
 option cc_enable_arenas = true;
 option optimize_for = LITE_RUNTIME;
 
-message Answer
-{
-	oneof t
-	{
-		a
-	}
-}
+//message Answer
+//{
+//    oneof t
+//    {
+//        a
+//    }
+//}
